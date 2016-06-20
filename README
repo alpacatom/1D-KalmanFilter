@@ -1,0 +1,4 @@
+1 dimentional Kalman Filter with Fortran
+
+you also need gauss2.dat which gives "a.out" gauss distribution data
+
